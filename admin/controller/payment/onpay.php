@@ -3,7 +3,7 @@
  * e-mail: s-m-o-k@list.ru
  */
 class ControllerPaymentOnPay extends Controller {
-  private $error = array();
+	private $error = array();
 
 	public function index() {
 
